@@ -10,9 +10,6 @@ I am working as a Cloud Big Data engineer.
 
 My areas of interest are data, images, signal processing and AI. I am curious about open-source projects.
 
-I know some coding languages but my favorite is Python.⚡
-
-
 
 <!--
 **ardatezcan1/ardatezcan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
