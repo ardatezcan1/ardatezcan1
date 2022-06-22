@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=linkedin&logoColor=999999)](https://www.linkedin.com/in/ardatezcan) 
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardtez@gmail.com)
 [![Contact](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](mailto:ardtez@gmail.com)
 
 
@@ -9,7 +8,7 @@ I am Arda Tezcan
 
 I am working as a Cloud Big Data engineer.
 
-My areas of interest are data, images, signal processing and AI.
+My areas of interest are data, images, signal processing and AI. I am curious about open-source projects.
 
 I know some coding languages but my favorite is Python.⚡
 
