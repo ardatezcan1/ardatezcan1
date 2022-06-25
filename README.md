@@ -10,7 +10,7 @@ I am working as a Cloud Big Data engineer.
 
 My areas of interest are data, images, signal processing and AI. I am curious about open-source projects.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ardatezcan1)
+[Github stats](https://github-readme-stats.vercel.app/api?username=ardatezcan1&theme=highcontrast&show_icons=true&count_private=true)
 
 
 <!--
@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ardatezcan1)
+[Github stats](https://github-readme-stats.vercel.app/api?username=ardatezcan1&theme=highcontrast&show_icons=true&count_private=true)
 -->
