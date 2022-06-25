@@ -10,7 +10,7 @@ I am working as a Cloud Big Data engineer.
 
 My areas of interest are data, images, signal processing and AI. I am curious about open-source projects.
 
-[Github stats](https://github-readme-stats.vercel.app/api?username=ardatezcan1&theme=highcontrast&show_icons=true&count_private=true)
+(https://github-readme-stats.vercel.app/api?username=ardatezcan1&theme=highcontrast&show_icons=true&count_private=true)
 
 
 <!--
