@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](mailto:ardtez@gmail.com)
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bariscankurtkaya@gmail.com)
+[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardtez@gmail.com)
 
 
 I am Arda Tezcan 
