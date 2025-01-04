@@ -6,7 +6,7 @@
 
 I am Arda Tezcan 
 
-I am working as a Cloud Big Data engineer.
+I am working as a Data Engineer.
 
 My areas of interest are data, images, signal processing and AI. I am curious about open-source projects.
 
